@@ -1,0 +1,25 @@
+body {
+  background-color: #f5f5f5; /* neutral background */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: #333;
+  padding: 40px;
+}
+
+.content {
+  display: inline-block;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 15px;
+  border: 8px solid black; /* thick black border */
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.reminder {
+  font-style: italic;      /* italics */
+  font-weight: bold;       /* bold */
+  font-size: 1.2em;        /* slightly larger */
+  color: #555;
+  margin-bottom: 20px;
+  line-height: 1.5em;      /* spacing for readability */
+}
